@@ -1,2 +1,2 @@
-# KRC_Switch.pretty
-KiCad Switch footprint library
+# KUT_Switch.pretty
+KUT KiCad Switch footprint library
